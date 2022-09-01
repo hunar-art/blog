@@ -1,1 +1,1 @@
-# blog
+# first django project in github
